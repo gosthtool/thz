@@ -1,1 +1,1 @@
-# thz
+# THz performace
